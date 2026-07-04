@@ -12,4 +12,4 @@
 
 - git init: Inicia o versionamento 
 
-Testar versionamento 
+Testar versionamento
